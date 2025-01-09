@@ -11,3 +11,5 @@ click "S" aniwhere on screen where you want to start clicking
 ```
 ctrl + c for close the script
 ```
+
+special thanks to @03anmol
