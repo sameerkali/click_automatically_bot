@@ -1,4 +1,5 @@
 #create a script that help to click automatically after each 3 sec 
+### you have to set the python environment and then after try to run this 
 
 ```
 python autoclick.py
